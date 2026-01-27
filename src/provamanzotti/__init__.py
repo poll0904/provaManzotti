@@ -1,2 +1,5 @@
+# Leonardo Manzotti
+#siamo tutti disperati
+
 def main() -> None:
-    print("Hello from provamanzotti!")
+    print("se funziona sono contento !")
